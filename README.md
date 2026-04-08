@@ -27,7 +27,7 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 <h3>Things I code with</h3>
 🌐 Frontend
 <p align="left"> 
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" />
 </p>
 ⚙️ Backend & APIs
 <p align="left"> 
@@ -40,11 +40,11 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 </p>
 ☁️ Cloud & DevOps
 <p align="left"> 
-	<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,kubernetes,githubactions,git,bash,bun" />  
+	<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,bash,bun" />  
 </p>
 🛠️ Tools & Productivity
 <p align="left"> 
-	<img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion,linux,eclipse" />
+	<img src="https://skillicons.dev/icons?i=vscode,postman,linux,eclipse" />
 </p>
 <!--
 🤖 AI & Emerging Tech
