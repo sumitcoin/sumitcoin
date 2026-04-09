@@ -40,7 +40,7 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 </p>
 ☁️ Cloud & DevOps
 <p align="left"> 
-	<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,bash,bun" />  
+	<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git" />  
 </p>
 🛠️ Tools & Productivity
 <p align="left"> 
