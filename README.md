@@ -11,7 +11,7 @@ Let’s create solutions that are robust, error-free, and ready for the future.
 <p>I am Fullstack developer from <b>Delhi, INDIA</b>, currently living in <b>INDIA <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30" alt="India Flag" /></b>.</p> 
 </div>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Fullstack+Developer;Java+J2EE+Springboot+Developer;Azure+AKS&center=true&size=30&width=500&duration=3500&color=#0A66C2" style="vertical-align: middle;"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Fullstack+Developer;Java+J2EE+Springboot+Developer;Azure+AKS+AWS&center=true&size=30&width=500&duration=3500&color=#0A66C2" style="vertical-align: middle;"></a>
 </h1>
 
 ---
