@@ -91,8 +91,6 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 </p>
 
 
----
-## Join me on:
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
