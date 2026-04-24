@@ -93,13 +93,32 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 
 ---
 ## Join me on:
-<p align="left">
-<a href="https://twitter.com/amiablemusafir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourayansujon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumit10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayansujon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20808467/ayan-sujon" height="30" width="40" /></a>
-<a href="https://fb.com/sumit.brjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourayansujon" height="30" width="40" /></a>
-<a href="https://instagram.com/amiablemusafir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayansujon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@amiablemusafir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayan-sujon" height="30" width="40" /></a>
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://twitter.com/amiablemusafir" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sumit10" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://fb.com/sumit.brjn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/amiablemusafir" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@amiablemusafir" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="35" />
+  </a>
 </p>
 
 ---
