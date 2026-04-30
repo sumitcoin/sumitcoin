@@ -107,7 +107,7 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
   </a>
   &nbsp;&nbsp;
   <a href="https://fb.com/sumit.brjn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" />
+    <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/amiablemusafir" target="_blank">
