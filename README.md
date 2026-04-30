@@ -115,7 +115,7 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@amiablemusafir" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="35" />
+    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="35" />
   </a>
 </p>
 
