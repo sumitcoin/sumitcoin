@@ -127,31 +127,31 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 </p>
 
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://twitter.com/amiablemusafir" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="35" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sumit10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="35"/>
+
+  <a href="https://twitter.com/amiablemusafir" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://fb.com/sumit.brjn" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" height="35" />
-  </a>
-  &nbsp;&nbsp;
+
   <a href="https://instagram.com/amiablemusafir" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://www.youtube.com/@amiablemusafir" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="35" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://fb.com/sumit.brjn" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
 
