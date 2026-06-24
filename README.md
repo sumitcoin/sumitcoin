@@ -117,11 +117,11 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitcoin&theme=tokyonight" height="160" width="25%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitcoin&theme=tokyonight" height="160" width="27%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitcoin&theme=vision-friendly-dark"  height="160" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitcoin&theme=vision-friendly-dark"  height="190" width="40%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitcoin&theme=gruvbox" height="160" width="25%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitcoin&theme=gruvbox" height="160" width="27%"/>
 
 
 </p>
