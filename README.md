@@ -126,7 +126,49 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 
 </p>
 
+---
 
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<p align="center">
+  <i>Open to Software Architecture, Java Development, Microservices, Cloud, AI & Technical Leadership opportunities.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit10/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sumit.brjn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/919958584710">
+    <img src="https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.sumit.co.in/contact/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_India-Available_for_Remote_Work-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💼_Experience-13%2B_Years-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/☕_Java-Spring_Boot-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚀_Microservices-Cloud_Architecture-purple?style=flat-square"/>
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider following my GitHub profile and connecting on LinkedIn.
+</p>
+
+
+<p align="center">
+💼 Senior Java Developer | Spring Boot | Microservices | AI Enthusiast
+</p>
+
+---
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
@@ -155,14 +197,6 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
   </a>
 </p>
 
----
-
-## 📬 Active Contact Channels
-
-- 🌐 Website: [https://www.sumit.co.in/contact/](https://www.sumit.co.in/contact/)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/sumit10/](https://www.linkedin.com/in/sumit10/)  (recommended)
-- 📧 Email: sumit.brjn@gmail.com  
-- 📱 WhatsApp: [https://wa.me/+919958584710](https://wa.me/+919958584710)  
 
 <br/><b/>
 Thank you for reaching out!  
