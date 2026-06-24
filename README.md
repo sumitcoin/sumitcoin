@@ -70,6 +70,7 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 
 ## 🚧 Upcoming Projects
 
+- 🚀 **BrokerGenAI** – Cloud-native property CRM with AI (Spring Boot, Microservices, Angular, Azure AKS, Docker, OpenAI)  
 - 🚀 **Attendo** – Cloud-native attendance platform (Spring Boot, Microservices, Angular, Azure AKS)  
 - ⚙️ **Microservices Boilerplate** – Enterprise-ready starter architecture  
 - ☁️ **Task Management System** – Secure, scalable, cloud-native application  
