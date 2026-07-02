@@ -169,7 +169,7 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 </p>
 
 ---
-<h3 align="center">🌐 Connect</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sumit10" target="_blank">
