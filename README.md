@@ -1,4 +1,4 @@
-## 🚀 Overview  
+7## 🚀 Overview  
 Turning ideas into **scalable, secure, and high-performance** applications.
 I design and build cloud-native systems and modern web interfaces using Java, Spring Boot, Microservices, and Angular, with a strong focus on **clean architecture, performance, and maintainability—helping businesses scale, stay resilient, and future-proof** their digital platforms.
 
@@ -37,7 +37,7 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & API's
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
