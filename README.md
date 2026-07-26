@@ -17,7 +17,7 @@ Let’s create solutions that are robust, error-free, and ready for the future.
 ---
 
 ## 👨‍💻 About Me  
-Hi 👋 I’m Sumit, a Java Full-Stack & Microservices Developer with hands-on experience in Spring Boot, Angular, and Azure AKS.
+Hi 👋 I’m Sumit, a Java Full-Stack & Microservices Developer with hands-on experience in Java, Spring Boot, Angular, and Azure AKS.
 
 I focus on building scalable, cloud-native, and enterprise-grade applications using microservices architecture, with strong attention to clean code, system design, and performance optimization.
 
