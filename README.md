@@ -1,4 +1,4 @@
-7## 🚀 Overview  
+## 🚀 Overview  
 Turning ideas into **scalable, secure, and high-performance** applications.
 I design and build cloud-native systems and modern web interfaces using Java, Spring Boot, Microservices, and Angular, with a strong focus on **clean architecture, performance, and maintainability—helping businesses scale, stay resilient, and future-proof** their digital platforms.
 
@@ -117,13 +117,26 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitcoin&theme=tokyonight" height="160" width="27%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitcoin&theme=tokyonight"
+    height="160"
+    width="30%"
+    alt="GitHub statistics"
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitcoin&theme=vision-friendly-dark"  height="190" width="40%"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sumitcoin&theme=tokyonight&hide_border=true"
+    height="160"
+    width="36%"
+    alt="GitHub contribution streak"
+  />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitcoin&theme=gruvbox" height="160" width="27%"/>
-
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitcoin&theme=tokyonight&utcOffset=5.5"
+    height="160"
+    width="30%"
+    alt="GitHub productive time"
+  />
 </p>
 
 ---
