@@ -121,7 +121,7 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
   
   <img src="https://streak-stats.demolab.com?user=sumitcoin&theme=tokyonight&hide_border=true" height="190" width="40%"/> 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitcoin&show_icons=true&theme=tokyonight" height="160" width="27%"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=sumitcoin&theme=tokyonight" height="160" width="27%"/>
 </p>
 
 ---
