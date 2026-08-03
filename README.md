@@ -3,7 +3,7 @@ Turning ideas into **scalable, secure, and high-performance** applications.
 I design and build cloud-native systems and modern web interfaces using Java, Spring Boot, Microservices, and Angular, with a strong focus on **clean architecture, performance, and maintainability—helping businesses scale, stay resilient, and future-proof** their digital platforms.
 
 **Imagine. Build. Scale.**
-Let’s create solutions that are robust, error-free, and ready for the future.
+Let’s create solutions that are robust, error-free, and ready for the futuregoal.
 
 ---
 <h1 align="center">Welcome to my page!<br/>Hi 👋, I'm Sumit Singh</h1>
